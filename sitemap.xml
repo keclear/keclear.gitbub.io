@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://web.northeastern.edu/polymer/index.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -48,18 +48,18 @@
       <image:loc>https://web.northeastern.edu/polymer/images/gallery2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://web.northeastern.edu/polymer/images/recent%20pub%201.jpg</image:loc>
+      <image:loc>https://web.northeastern.edu/polymer/images/images_medium_nn3c08660_0005.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://web.northeastern.edu/polymer/images/recent%20pub%203.png</image:loc>
+      <image:loc>https://web.northeastern.edu/polymer/images/get.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://web.northeastern.edu/polymer/images/recent%20pub%202.png</image:loc>
+      <image:loc>https://web.northeastern.edu/polymer/images/1-s20-s0168365923008192-ga1.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/research.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +125,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/people.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/publication.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/news.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/contact.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/lab-renovation-log.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,7 +404,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/past-members.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -455,7 +455,7 @@
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/photos-of-importance.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
