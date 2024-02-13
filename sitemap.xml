@@ -56,6 +56,9 @@
     <image:image>
       <image:loc>https://web.northeastern.edu/polymer/images/1-s20-s0168365923008192-ga1.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://web.northeastern.edu/polymer/images/small.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://web.northeastern.edu/polymer/research.html</loc>

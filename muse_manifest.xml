@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707862702540">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707863451758">
   <folder name="css">
     <file name="site_global.css" crc="449117384"/>
     <file name="master_a-master.css" crc="504559266" ref="index:publication:lab-renovation-log:people:contact:photos-of-importance:research:news:past-members"/>
     <file name="master_b-master.css" crc="491602763" ref="moved-to-new-lab"/>
-    <file name="index.css" crc="4061468820" ref="index"/>
+    <file name="index.css" crc="3781649821" ref="index"/>
     <file name="publication.css" crc="288723697" ref="publication"/>
     <file name="lab-renovation-log.css" crc="328404790" ref="lab-renovation-log"/>
     <file name="moved-to-new-lab.css" crc="4187048131" ref="moved-to-new-lab"/>
@@ -440,11 +440,11 @@
     <file name="newlab368x45.jpg" crc="313246832" seo="true" ref="moved-to-new-lab">
       <caption webpage="moved-to-new-lab" alt=""/>
     </file>
-    <file name="_jsc3197.jpg" crc="341098731" ref="index">
+    <file name="small.jpg" crc="438109057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="322969170" seo="true" mt="1707862674688" redirect="true"/>
+  <file name="index.html" crc="4234234060" seo="true" mt="1707863415825" redirect="true"/>
   <file name="research.html" crc="405601974" seo="true" mt="1707861808095" redirect="true"/>
   <file name="people.html" crc="42135840" seo="true" mt="1707861808095" redirect="true"/>
   <file name="publication.html" crc="320595989" seo="true" mt="1707861808095" redirect="true"/>
