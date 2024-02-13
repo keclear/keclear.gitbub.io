@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707858120383">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707859282748">
   <folder name="css">
     <file name="site_global.css" crc="449117384"/>
     <file name="master_a-master.css" crc="3867585611" ref="index:publication:lab-renovation-log:people:contact:photos-of-importance:research:news:past-members"/>
     <file name="master_b-master.css" crc="491602763" ref="moved-to-new-lab"/>
-    <file name="index.css" crc="109015863" ref="index"/>
+    <file name="index.css" crc="3931929640" ref="index"/>
     <file name="publication.css" crc="288723697" ref="publication"/>
     <file name="lab-renovation-log.css" crc="328404790" ref="lab-renovation-log"/>
     <file name="moved-to-new-lab.css" crc="4187048131" ref="moved-to-new-lab"/>
@@ -11,7 +11,7 @@
     <file name="contact.css" crc="486224320" ref="contact"/>
     <file name="photos-of-importance.css" crc="40043470" ref="photos-of-importance"/>
     <file name="research.css" crc="264065499" ref="research"/>
-    <file name="news.css" crc="4077436214" ref="news"/>
+    <file name="news.css" crc="3761940674" ref="news"/>
     <file name="past-members.css" crc="3801211963" ref="past-members"/>
   </folder>
   <folder name="scripts">
@@ -191,9 +191,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="chemist_crop380w.jpg" crc="440726629" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_jsc3197.jpg" crc="341098731" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="images_medium_nn3c08660_0005.gif" crc="3896507685" seo="true" ref="index">
@@ -443,12 +440,15 @@
     <file name="newlab368x45.jpg" crc="313246832" seo="true" ref="moved-to-new-lab">
       <caption webpage="moved-to-new-lab" alt=""/>
     </file>
+    <file name="_jsc3118.jpg" crc="90041045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3855013201" seo="true" mt="1707858045425" redirect="true"/>
+  <file name="index.html" crc="196154375" seo="true" mt="1707859218634" redirect="true"/>
   <file name="research.html" crc="191713236" seo="true" mt="1707856574580" redirect="true"/>
   <file name="people.html" crc="518299633" seo="true" mt="1707853237652" redirect="true"/>
   <file name="publication.html" crc="119449705" seo="true" mt="1707856294508" redirect="true"/>
-  <file name="news.html" crc="298774613" seo="true" mt="1707853237652" redirect="true"/>
+  <file name="news.html" crc="3843661277" seo="true" mt="1707859231610" redirect="true"/>
   <file name="contact.html" crc="278595019" seo="true" mt="1707853237652" redirect="true"/>
   <file name="lab-renovation-log.html" crc="174599269" seo="true" mt="1707853237652" redirect="true"/>
   <file name="past-members.html" crc="409538833" seo="true" mt="1707853237652" redirect="true"/>
