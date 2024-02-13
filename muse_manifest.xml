@@ -1,0 +1,459 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1666301295654">
+  <folder name="css">
+    <file name="site_global.css" crc="449117384"/>
+    <file name="master_a-master.css" crc="4228478243" ref="past-members:photos-of-importance:index:research:news:contact:publication:lab-renovation-log:people"/>
+    <file name="master_b-master.css" crc="191356622" ref="moved-to-new-lab"/>
+    <file name="past-members.css" crc="3849435998" ref="past-members"/>
+    <file name="photos-of-importance.css" crc="3974869553" ref="photos-of-importance"/>
+    <file name="index.css" crc="95083911" ref="index"/>
+    <file name="research.css" crc="4163190815" ref="research"/>
+    <file name="news.css" crc="385676927" ref="news"/>
+    <file name="contact.css" crc="338349301" ref="contact"/>
+    <file name="publication.css" crc="406889496" ref="publication"/>
+    <file name="lab-renovation-log.css" crc="4264508514" ref="lab-renovation-log"/>
+    <file name="moved-to-new-lab.css" crc="4187048131" ref="moved-to-new-lab"/>
+    <file name="people.css" crc="4187116403" ref="people"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="museutils.js" crc="3939489907" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="webpro.js" crc="3856315280" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:research:people:news:lab-renovation-log:past-members"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="require.js" crc="4177726516" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+  </folder>
+  <folder name="images">
+    <file name="slideshow pic 1.jpg" crc="4187907611" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance:moved-to-new-lab"/>
+    <file name="tnestinfitc3-hres.jpg" crc="242809873" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery1.jpg" crc="3991901606" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery12.jpg" crc="3951695707" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery11.jpg" crc="446935991" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery10.jpg" crc="190393168" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery9.jpg" crc="47308653" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery8.jpg" crc="3894682922" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery7.jpg" crc="439792307" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery6.jpg" crc="473589075" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery5.jpg" crc="340059853" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery4.jpg" crc="440172725" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery3.jpg" crc="4195518868" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="gallery2.jpg" crc="343688942" seo="true" ref="index:research:people:publication:news:contact:lab-renovation-log:past-members:photos-of-importance">
+      <caption webpage="news" alt=""/>
+      <caption webpage="lab-renovation-log" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="past-members" alt=""/>
+      <caption webpage="photos-of-importance" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:moved-to-new-lab"/>
+    <file name="e099ee_98c57d060d02ee8d026043bdac4e90ef.jpg" crc="85985717" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chemist_crop380w.jpg" crc="440726629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_jsc3197.jpg" crc="3804864418" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recent pub 1.jpg" crc="356343066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recent pub 3.png" crc="3905007618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recent pub 2.png" crc="479863058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_jsc3118.jpg" crc="94417687" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hela-ii.jpg" crc="383895728" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="e099ee_f352ef33e5eb5be1ca23d0c2cbb83df7.jpg" crc="122445069" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="e099ee_a005988d755b34a7ca4abd27dc738dde.jpg" crc="19647142" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="self-immolative polymer.jpg" crc="68077912" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding nih.png" crc="3972717398" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding acs prf.png" crc="4011641481" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding nsf.png" crc="3916663374" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding neu.png" crc="532281680" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding dfci.png" crc="256892475" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="funding rogers.png" crc="4159761518" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="ke_zhang_2.jpg" crc="4079704880" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="yao.jpg" crc="4003785618" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="yang profile pic.jpg" crc="4109266364" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="jiansong profile pic.jpg" crc="31635519" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="peiru profile pic.jpg" crc="4102787383" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="mengqi profile pic.jpg" crc="3975020029" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="yuyan wang.jpg" crc="113731774" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="jiachen.jpg" crc="509241891" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="tingyu.jpg" crc="204910674" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="yun.jpg" crc="534015317" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="0h1a0275.jpg" crc="494456551" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="isolation-emojis-andwalsh-jessica-walsh-design-usa_dezeen_2364_grey_hero.jpg" crc="3783105501" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="unknown.jpg" crc="4007596197" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="group 2019-crop-u7766.jpg" crc="92090314" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="img_1251-crop-u5746.jpg" crc="88026128" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="img_2645-crop-u5736.jpg" crc="3989425645" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pasted image 1608x893.jpg" crc="3758451868" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="e099ee_a8a75283a29a477d9061e25750a972db.jpg" crc="198417069" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="banner-archive.jpg" crc="173825040" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="e099ee_3c794ccca303ccce46fc6594b0c8efcc.jpg" crc="3998630516" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_2e4d8f1fb842b5dc153fc41a9c6f31d8.jpg" crc="4116229119" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_9edbefb20d39fe1fbe82b7c0ab08d00d.jpg" crc="3814891326" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_de318eb98bc7968d03c801c63ea49357.jpg" crc="3972535665" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_1d7c6966e32de884a66bf59e3c1a1958.jpg" crc="4018821387" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_a89941e5208e2cece4b32a5e44cb9dc9.jpg" crc="3763334909" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="2013-07-30 155814.jpg" crc="115699320" seo="true" ref="lab-renovation-log">
+      <caption webpage="lab-renovation-log" alt=""/>
+    </file>
+    <file name="e099ee_55bae9c6661756b040709d77302c5f06.jpg" crc="4234117207" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="e099ee_c36c2cf23f4f0dcf34af6bb4d52213fb.jpg" crc="3789524536" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="e099ee_608eac2ccbac4a9697b5cf23ea39622e.jpg" crc="303637700" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="dali wang-2017.jpg" crc="304960814" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="img_0205.jpg" crc="4046999495" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="screen shot 2017-09-27 at 103013 pm.jpg" crc="536592802" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="img_5219.jpg" crc="76650448" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="xi profile pic.jpg" crc="524542132" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="16729573_1801196900131697_2677046943745644760_n.jpg" crc="3971925655" seo="true" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="lei profile pic.jpg" crc="191753138" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="photo01.jpg" crc="3814724779" ref="past-members">
+      <caption webpage="past-members" alt=""/>
+    </file>
+    <file name="2017 excellence photo.jpg" crc="4089091784" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="img_1677.jpg" crc="3819059365" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="jessica logan.jpg" crc="299051444" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="clarissa.jpg" crc="94683984" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="xueguang graduation.jpg" crc="159280603" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="fei graduation.jpg" crc="322820824" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="2018-excellence.jpg" crc="72615225" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="xuyu graduation.jpg" crc="461315927" seo="true" ref="photos-of-importance">
+      <caption webpage="photos-of-importance" alt=""/>
+    </file>
+    <file name="newlab11.jpg" crc="3862137577" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab12.jpg" crc="371889432" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab10.jpg" crc="4255757561" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab9.jpg" crc="3982404413" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab2.jpg" crc="3955324448" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab1.jpg" crc="113586865" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab8.jpg" crc="4120382516" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab7.jpg" crc="313840715" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab6.jpg" crc="4124947209" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab5.jpg" crc="338314285" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab4.jpg" crc="324291243" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab3.jpg" crc="438473896" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab1168x45.jpg" crc="4047049639" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab1268x45.jpg" crc="3769989768" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab1068x45.jpg" crc="47638713" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab968x45.jpg" crc="247360564" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab268x45.jpg" crc="4072698940" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab168x45.jpg" crc="90276538" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab868x45.jpg" crc="4098211684" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab768x45.jpg" crc="176785039" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab668x45.jpg" crc="205533481" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab568x45.jpg" crc="307399319" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab468x45.jpg" crc="512765131" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+    <file name="newlab368x45.jpg" crc="313246832" seo="true" ref="moved-to-new-lab">
+      <caption webpage="moved-to-new-lab" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="396925396" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="research.html" crc="4115299649" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="people.html" crc="437228414" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="publication.html" crc="433264653" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="news.html" crc="409279488" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="contact.html" crc="3921439712" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="lab-renovation-log.html" crc="163762607" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="past-members.html" crc="35527689" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="photos-of-importance.html" crc="4065554254" seo="true" mt="1666301187350" redirect="true"/>
+  <file name="moved-to-new-lab.html" crc="365507139" seo="true" mt="1582821429749" redirect="true"/>
+</manifest>
