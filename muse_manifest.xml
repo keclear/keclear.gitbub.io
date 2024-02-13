@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707859282748">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://web.northeastern.edu/polymer" resolutions="1x" timestamp="1707859570022">
   <folder name="css">
     <file name="site_global.css" crc="449117384"/>
     <file name="master_a-master.css" crc="3867585611" ref="index:publication:lab-renovation-log:people:contact:photos-of-importance:research:news:past-members"/>
     <file name="master_b-master.css" crc="491602763" ref="moved-to-new-lab"/>
-    <file name="index.css" crc="3931929640" ref="index"/>
+    <file name="index.css" crc="155617223" ref="index"/>
     <file name="publication.css" crc="288723697" ref="publication"/>
     <file name="lab-renovation-log.css" crc="328404790" ref="lab-renovation-log"/>
     <file name="moved-to-new-lab.css" crc="4187048131" ref="moved-to-new-lab"/>
@@ -444,7 +444,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="196154375" seo="true" mt="1707859218634" redirect="true"/>
+  <file name="index.html" crc="3929849779" seo="true" mt="1707859540248" redirect="true"/>
   <file name="research.html" crc="191713236" seo="true" mt="1707856574580" redirect="true"/>
   <file name="people.html" crc="518299633" seo="true" mt="1707853237652" redirect="true"/>
   <file name="publication.html" crc="119449705" seo="true" mt="1707856294508" redirect="true"/>
