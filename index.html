@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=449117384"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3867585611"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3773059568" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=109015863" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -415,7 +415,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#slideshowu6279', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:5000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:1000,enableSwipe:false,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu6279 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u386').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1484.45]},{"speed":[0,0],"in":[1484.45,Infinity]}]);/* scroll effect */
+$('#u386').registerBackgroundPositionScrollEffect([{"in":[-Infinity,1484.45],"speed":[0,0]},{"in":[1484.45,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
